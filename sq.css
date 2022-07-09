@@ -1,0 +1,33 @@
+
+.special{
+    background-image: url("https://media-www.sqspcdn.com/images/pages/tour/overview-websites/hero/desktop-lg-background-2500w.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size:cover;
+background-attachment:scroll;
+display: flex;
+}
+.get1{
+    margin: 200px 10px 10px 10px;
+    color : #fff;
+}
+.a{
+    font-size: 12px;
+    margin-bottom: 12px;    
+}
+.b{
+    font-size: 30px;
+}
+.c{
+    font-size: 18px;
+}
+.get2{
+    background-color: white;
+    margin: 200px 10px 10px 10px;
+}
+.sec{
+margin-left: 50px;
+}
+.b h1{
+   margin-top:0;
+}
